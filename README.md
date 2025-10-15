@@ -12,21 +12,8 @@ It can be used for **crime prevention, emergency monitoring, and safety alert sy
 - Trains a **deep learning model** for detection
 - Real-time or recorded audio detection supported
 - Can be extended for **crime rate analysis**
-
+  
 ---
-
-## 🧩 Project Structure
-
-HumanScreamDetection/
-│
-├── dataSet/
-│   ├── positive/     # Folder with scream audio files
-│   └── negative/     # Folder with non-scream audio files
-│
-├── training.py       # Script for training the model
-├── detection.py      # Script for testing/detecting screams
-└── README.md         # Project documentation
-
 
 ## ⚙️ Requirements
 Install dependencies using pip:
